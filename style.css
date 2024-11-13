@@ -1,0 +1,21 @@
+* {
+
+}
+
+/*style for body*/
+
+body {
+	background-color: beige;
+}
+
+/*style for container*/
+.container{
+	background-color: #4B4376;
+	color: white;
+
+}
+
+/*style for img*/
+img{
+	width: 300px;
+}
