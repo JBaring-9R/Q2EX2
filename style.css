@@ -5,8 +5,7 @@
 /*style for body*/
 
 body {
-	background-image: url(https://i.pinimg.com/736x/d5/b8/87/d5b887a50850c58f181e56a84e0db146.jpg);
-	background-repeat: no-repeat;
+	background-image: url(https://i.pinimg.com/736x/d5/b8/87/d5b887a50850c58f181e56a84e0db146.jpg), no-repeat;
 }
 
 /*style for container*/
